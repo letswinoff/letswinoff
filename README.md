@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there :wave:
 
 Welcome to my page!<br>
 I'm **Sumit**, student from 🇮🇳Odisha,India pursuing B.Tech in CSE @KIIT.
