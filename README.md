@@ -1,5 +1,4 @@
 # Hi there 👋
-<hr>
 
 Welcome to my page!<br>
 I'm **Sumit**, student from 🇮🇳Odisha,India pursuing B.Tech in CSE @KIIT.
