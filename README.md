@@ -12,8 +12,8 @@ I'm <a href="https://github.com/letswinoff" rel="nofollow">Sumit</a>, student fr
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="260" style="max-width:100%;">
 
 
-- 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working on Full Stack Dev
+- 🌱 I’m currently learning Front-End Dev
 - 📫 How to reach me:   <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width="10px">
 
 <p align="center">
