@@ -28,15 +28,17 @@ I'm <a href="https://github.com/letswinoff" rel="nofollow">Sumit</a>, student fr
 
 
 <hr>
-<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"><img class="emoji" alt="bar_chart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji> <strong>MyTop Skills</strong></p>
+<!-- <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"><img class="emoji" alt="bar_chart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji> <strong>MyTop Skills</strong></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letswinoff&theme=gotham&hide_langs_below=1">
+<p align="center">&nbsp;
 
+<hr> -->
+<p><h3><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"><img class="emoji" alt="chart_with_upwards_trend" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"></g-emoji>My GitHub Stats & Skills</h3></p>
 
-<hr>
-<p><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"><img class="emoji" alt="chart_with_upwards_trend" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"></g-emoji> My GitHub Stats</p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=letswinoff&show_icons=true&theme=gotham" alt="letswinoff" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=letswinoff&show_icons=true&theme=gotham&&line_height=33" style="max-width:100%" alt="letswinoff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letswinoff&theme=gotham&hide_langs_below=1" style="max-width:100%">
+</p>
 <hr>
 
 
