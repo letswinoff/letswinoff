@@ -7,7 +7,7 @@
 
 
 Welcome to my page!<br>
-I'm <a href="https://github.com/letswinoff" rel="nofollow">Sumit</a>, student from 🇮🇳Odisha,India pursuing B.Tech in CSE [@KIIT](https://kiitee.kiit.ac.in/). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+I'm <a href="https://github.com/letswinoff" rel="nofollow">Sumit</a>, student from Odisha,India pursuing B.Tech in CSE [@KIIT](https://kiitee.kiit.ac.in/). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="260" style="max-width:100%;">
 
