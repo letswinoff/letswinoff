@@ -17,7 +17,7 @@ I'm <a href="https://github.com/letswinoff" rel="nofollow">Sumit</a>, student fr
 - 📫 How to reach me:   <img src="https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width="10px">
 
 <p align="center">
-<a href="https://linkedin.com/in/sumit-sahoo-158582205" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://linkedin.com/in/letswinoff" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://github.com/letswinoff" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="mailto:sumitsahoof5@gmail.com?subject=Hello%20Sumit,%20From%20Github" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a> 
 <hr>
